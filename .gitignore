@@ -1,0 +1,8 @@
+.env
+assets\valentine.png
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+assets/valentine.png
